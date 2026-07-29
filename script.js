@@ -1,6 +1,6 @@
 
 let datos;
-fetch('data/travel.json').then(r=>r.json()).then(d=>datos=d);
+fetch("travel.json").then(r=>r.json()).then(d=>datos=d);
 function tarjeta(x){
 return `<div class='card'><h3>${x.nombre}</h3><p>${x.descripcion}</p><img src='${x.imagenes[0]}'><img src='${x.imagenes[1]}'></div>`;
 }
