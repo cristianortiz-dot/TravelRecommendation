@@ -1,0 +1,9 @@
+
+{
+ "playas":[{"nombre":"Maldivas","descripcion":"Arena blanca.","imagenes":["images/beach1.png","images/beach2.png"]}],
+ "templos":[{"nombre":"Templo Kinkaku-ji","descripcion":"Kioto, Japón.","imagenes":["images/temple1.png","images/temple2.png"]}],
+ "paises":[
+ {"nombre":"Japón","descripcion":"Cultura y tecnología.","imagenes":["images/japan1.png","images/japan2.png"]},
+ {"nombre":"Colombia","descripcion":"Naturaleza y café.","imagenes":["images/colombia1.png","images/colombia2.png"]}
+ ]
+}

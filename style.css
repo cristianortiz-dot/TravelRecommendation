@@ -1,0 +1,10 @@
+
+body{font-family:Arial;margin:0;background:#f4f4f4}
+nav{display:flex;justify-content:space-between;background:#0b5ed7;color:#fff;padding:15px}
+nav a{color:#fff;margin-left:15px;text-decoration:none}
+.hero{padding:40px;text-align:center;background:#d9ecff}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px;padding:20px}
+.card{background:#fff;padding:15px;border-radius:8px;box-shadow:0 2px 6px #999}
+.card img{width:100%;margin:5px 0}
+form{display:flex;flex-direction:column;max-width:500px;margin:20px auto;gap:10px}
+input,textarea,button{padding:10px}
